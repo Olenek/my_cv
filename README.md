@@ -1,2 +1,2 @@
 # my_cv
-My CV in Russian and English languages
+Compiled and readable versions of my CV available in Russian and English languages, updated regularly
